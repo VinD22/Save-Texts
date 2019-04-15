@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Vă permite să salvați textele cu ușurință și să le copiați rapid</string>
+    <string name="enter_or_paste_text_here">Introduceți sau lipiți text aici</string>
+    <string name="please_enter_text">Nu a intrat textul</string>
+    <string name="clear_text">Text clar</string>
+    <string name="copied_to_clipboard">Copiat în Clipboard</string>
+    <string name="share_text">Trimiteți textul</string>
+    <string name="add_text">Adaugă text</string>
+    <string name="ok">O.K</string>
+    <string name="edit_text">Editează textul</string>
+    <string name="refresh">Reîmprospăta</string>
+    <string name="sample_text">Text mostră</string>
+    <string name="check_my_other_apps">Vizualizați tutorialul</string>
+    <string name="settings">reglaj</string>
+    <string name="share_app">împărţi</string>
+    <string name="rate_app">Revizuire</string>
+
+</resources>

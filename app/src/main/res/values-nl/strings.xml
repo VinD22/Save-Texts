@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Hiermee kunt u gemakkelijk teksten opslaan en snel kopiëren</string>
+    <string name="enter_or_paste_text_here">Vul hier tekst in of plak hier</string>
+    <string name="please_enter_text">Geen tekst ingevoerd</string>
+    <string name="clear_text">Duidelijke tekst</string>
+    <string name="copied_to_clipboard">Gekopieerd naar het klembord</string>
+    <string name="share_text">Tekst delen</string>
+    <string name="add_text">Voeg tekst toe</string>
+    <string name="ok">OK</string>
+    <string name="edit_text">Tekst bewerken</string>
+    <string name="refresh">Vernieuwen</string>
+    <string name="sample_text">Voorbeeldtekst</string>
+    <string name="check_my_other_apps">Bekijk de handleiding</string>
+    <string name="settings">Instellingen</string>
+    <string name="share_app">Delen</string>
+    <string name="rate_app">recensie</string>
+
+</resources>

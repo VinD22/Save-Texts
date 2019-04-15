@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Metinleri kolayca kaydetmenizi ve hızlı bir şekilde kopyalamanızı sağlar</string>
+    <string name="enter_or_paste_text_here">Metni buraya girin veya yapıştırın</string>
+    <string name="please_enter_text">Girilen Metin yok</string>
+    <string name="clear_text">Metni Temizle</string>
+    <string name="copied_to_clipboard">Panoya kopyalanır</string>
+    <string name="share_text">Metin Paylaş</string>
+    <string name="add_text">Yazı ekle</string>
+    <string name="ok">Tamam</string>
+    <string name="edit_text">Metni düzenle</string>
+    <string name="refresh">Yenile</string>
+    <string name="sample_text">Örnek yazı</string>
+    <string name="check_my_other_apps">Eğiticiyi Görüntüle</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share_app">paylaşmak</string>
+    <string name="rate_app">eleştiri</string>
+
+</resources>

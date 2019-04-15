@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">اجازه می دهد که متون شما را نجات دهد به راحتی و به سرعت آن را کپی کنید</string>
+    <string name="enter_or_paste_text_here">را وارد کنید و یا چسباندن متن در اینجا</string>
+    <string name="please_enter_text">متنی وارد نشده است</string>
+    <string name="clear_text">پاک کردن متن</string>
+    <string name="copied_to_clipboard">کپی به کلیپ بورد</string>
+    <string name="share_text">به اشتراک متن</string>
+    <string name="add_text">اضافه کردن متن</string>
+    <string name="ok">خوب</string>
+    <string name="edit_text">ویرایش متن</string>
+    <string name="refresh">تازه کردن</string>
+    <string name="sample_text">متن نمونه</string>
+    <string name="check_my_other_apps">مشاهده آموزش</string>
+    <string name="settings">تنظیمات</string>
+    <string name="share_app">بخش کردن</string>
+    <string name="rate_app">تجدید نظر</string>
+
+</resources>

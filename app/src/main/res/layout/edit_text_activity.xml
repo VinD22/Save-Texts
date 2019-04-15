@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightAccent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/app_bar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/star"
+        android:layout_below="@id/toolbar"
+        android:padding="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <EditText
+                android:id="@+id/entered_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:backgroundTint="@color/white"
+                android:gravity="top|left"
+                android:hint="@string/enter_or_paste_text_here"
+                android:inputType="textMultiLine"
+                android:minLines="6"
+                android:lines="15"
+                android:textCursorDrawable="@null"
+                android:scrollbars="vertical"
+                android:textColor="@color/white"
+                android:textColorHint="#e9e7e7" />
+
+            <Button
+                android:id="@+id/clear_text"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clear_text"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:textColor="@color/white"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:layout_marginTop="10dp"
+                android:textSize="15sp"
+                android:textAllCaps="false"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/edit_text"
+        android:elevation="10dp"
+        android:textColor="@color/white" />
+
+    <ImageView
+        android:id="@+id/star"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_above="@id/edit_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/un_star" />
+
+</RelativeLayout>

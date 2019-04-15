@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="about_app">מאפשר לך לשמור טקסטים בקלות להעתיק אותו במהירות</string>
+    <string name="enter_or_paste_text_here">הזן או הדבק טקסט כאן</string>
+    <string name="please_enter_text">לא הוזן טקסט</string>
+    <string name="clear_text">טקסט ברור</string>
+    <string name="copied_to_clipboard">הועתק ללוח</string>
+    <string name="share_text">שתף טקסט</string>
+    <string name="add_text">הוסף טקסט</string>
+    <string name="ok">בסדר</string>
+    <string name="edit_text">ערוך טקסט</string>
+    <string name="refresh">לְרַעֲנֵן</string>
+    <string name="sample_text">טקסט לדוגמה</string>
+    <string name="check_my_other_apps">הצג את המדריך</string>
+    <string name="settings">סְבִיבָה</string>
+    <string name="share_app">לַחֲלוֹק</string>
+    <string name="rate_app">סקירה</string>
+
+</resources>
+

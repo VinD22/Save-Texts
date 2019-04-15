@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Umožňuje ľahko ukladať texty a rýchlo ich kopírovať</string>
+    <string name="enter_or_paste_text_here">Tu zadajte alebo prilepte text</string>
+    <string name="please_enter_text">Zadaný text nebol zadaný</string>
+    <string name="clear_text">Jasný text</string>
+    <string name="copied_to_clipboard">Skopírované do schránky</string>
+    <string name="share_text">Zdieľať text</string>
+    <string name="add_text">Pridať text</string>
+    <string name="ok">Ok</string>
+    <string name="edit_text">Upraviť text</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="sample_text">Ukážkový text</string>
+    <string name="check_my_other_apps">Zobraziť príručku</string>
+    <string name="settings">nastavenie</string>
+    <string name="share_app">rozdeliť</string>
+    <string name="rate_app">Recenzia aplikácie</string>
+
+</resources>

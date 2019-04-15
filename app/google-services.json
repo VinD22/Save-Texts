@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "940058635667",
+    "firebase_url": "https://save-texts-copy-paste.firebaseio.com",
+    "project_id": "save-texts-copy-paste",
+    "storage_bucket": "save-texts-copy-paste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940058635667:android:6fad59fc69702fdc",
+        "android_client_info": {
+          "package_name": "paste.copy.save.texts.app.v.savetexts_copypaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940058635667-fm1htd58459q55hld9t7a7s5dkrkbq5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgSjP4VWIJir8mF2BolaEmnP24VoR8no"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

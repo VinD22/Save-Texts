@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">让您轻松保存文本并快速复制</string>
+    <string name="enter_or_paste_text_here">在此输入或粘贴文本</string>
+    <string name="please_enter_text">没有输入文本</string>
+    <string name="clear_text">清除文本</string>
+    <string name="copied_to_clipboard">复制到剪贴板</string>
+    <string name="share_text">分享文字</string>
+    <string name="add_text">添加文字</string>
+    <string name="ok">好</string>
+    <string name="edit_text">编辑文本</string>
+    <string name="refresh">刷新</string>
+    <string name="sample_text">示例文本</string>
+    <string name="check_my_other_apps">请参阅应用程序登机</string>
+    <string name="settings">设置</string>
+    <string name="share_app">共享</string>
+    <string name="rate_app">评论应用</string>
+
+</resources>

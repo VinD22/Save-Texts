@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Le permite guardar textos fácilmente y copiarlo rápidamente</string>
+    <string name="enter_or_paste_text_here">Introduzca o pegue texto aquí</string>
+    <string name="please_enter_text">No hay texto ingresado</string>
+    <string name="clear_text">Borrar texto</string>
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    <string name="share_text">Compartir texto</string>
+    <string name="add_text">Añadir texto</string>
+    <string name="ok">De acuerdo</string>
+    <string name="edit_text">Editar texto</string>
+    <string name="refresh">Refrescar</string>
+    <string name="sample_text">Este es un ejemplo de texto</string>
+    <string name="check_my_other_apps">Ver la aplicación al embarcar</string>
+    <string name="settings">Ajustes</string>
+    <string name="share_app">Compartir aplicación</string>
+    <string name="rate_app">la crítica</string>
+
+</resources>

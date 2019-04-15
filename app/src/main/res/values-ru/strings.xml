@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Позволяет легко сохранять тексты и быстро копировать их</string>
+    <string name="enter_or_paste_text_here">Введите или вставьте текст здесь</string>
+    <string name="please_enter_text">Текст не введен</string>
+    <string name="clear_text">Очистить текст</string>
+    <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="share_text">Поделиться текстом</string>
+    <string name="add_text">Добавить текст</string>
+    <string name="ok">ОК</string>
+    <string name="edit_text">Редактировать текст</string>
+    <string name="refresh">Обновить</string>
+    <string name="sample_text">Образец текста</string>
+    <string name="check_my_other_apps">Посмотреть учебное пособие</string>
+    <string name="settings">Настройки</string>
+    <string name="share_app">Поделиться</string>
+    <string name="rate_app">Обзор приложения</string>
+
+</resources>

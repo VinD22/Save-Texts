@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Pozwala szybko zapisywać teksty i skopiować je szybko</string>
+    <string name="enter_or_paste_text_here">Wprowadź lub Wklej tutaj tekst</string>
+    <string name="please_enter_text">Nie wprowadzono tekstu</string>
+    <string name="clear_text">Czysty tekst</string>
+    <string name="copied_to_clipboard">Skopiuj do schowka</string>
+    <string name="share_text">Udostępnij tekst</string>
+    <string name="add_text">Dodaj tekst</string>
+    <string name="ok">Ok</string>
+    <string name="edit_text">Edytować tekst</string>
+    <string name="refresh">Odświeżać</string>
+    <string name="sample_text">Przykładowy tekst</string>
+    <string name="check_my_other_apps">Zobacz samouczek</string>
+    <string name="settings">naregulowanie</string>
+    <string name="share_app">Dzielić</string>
+    <string name="rate_app">Recenzja</string>
+
+</resources>

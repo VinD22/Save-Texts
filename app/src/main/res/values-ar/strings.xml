@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">يتيح لك حفظ النصوص بسهولة ونسخه بسرعة</string>
+    <string name="enter_or_paste_text_here">أدخل النص أو الصقه هنا</string>
+    <string name="please_enter_text">لم يتم إدخال أي نص</string>
+    <string name="clear_text">نص واضح</string>
+    <string name="copied_to_clipboard">نسخ إلى الحافظة</string>
+    <string name="share_text">نص المشاركة</string>
+    <string name="add_text">إضافة نص</string>
+    <string name="ok">حسنا</string>
+    <string name="edit_text">تحرير النص</string>
+    <string name="refresh">تحديث</string>
+    <string name="sample_text">نص بسيط</string>
+    <string name="check_my_other_apps">عرض البرنامج التعليمي</string>
+    <string name="settings">إعدادات</string>
+    <string name="share_app">شارك</string>
+    <string name="rate_app">إعادة النظر</string>
+
+</resources>

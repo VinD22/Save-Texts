@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Позволява ви да запазвате лесно текстовете и да ги копирате бързо</string>
+    <string name="enter_or_paste_text_here">Въведете или поставете текст тук</string>
+    <string name="please_enter_text">Няма въведен текст</string>
+    <string name="clear_text">Ясен текст</string>
+    <string name="copied_to_clipboard">Копирано в клипборда</string>
+    <string name="share_text">Споделяне на текст</string>
+    <string name="add_text">Добавяне на текст</string>
+    <string name="ok">Добре</string>
+    <string name="edit_text">Редактиране на текста</string>
+    <string name="refresh">Обновяване</string>
+    <string name="sample_text">Примерни текстове</string>
+    <string name="check_my_other_apps">Преглед на инстркцията</string>
+    <string name="settings">Настройки</string>
+    <string name="share_app">Дял</string>
+    <string name="rate_app">Преглед на приложението</string>
+
+</resources>

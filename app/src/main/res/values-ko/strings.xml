@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">텍스트를 쉽게 저장하고 빠르게 복사 할 수 있습니다.</string>
+    <string name="enter_or_paste_text_here">여기에 텍스트를 입력하거나 붙여 넣기하십시오.</string>
+    <string name="please_enter_text">입력 된 텍스트 없음</string>
+    <string name="clear_text">일반 텍스트</string>
+    <string name="copied_to_clipboard">클립 보드에 복사 됨</string>
+    <string name="share_text">텍스트 공유</string>
+    <string name="add_text">텍스트 추가</string>
+    <string name="ok">승인</string>
+    <string name="edit_text">텍스트 편집</string>
+    <string name="refresh">새롭게 하다</string>
+    <string name="sample_text">샘플 텍스트</string>
+    <string name="check_my_other_apps">자습서보기</string>
+    <string name="settings">설정</string>
+    <string name="share_app">나누다</string>
+    <string name="rate_app">비평</string>
+
+</resources>

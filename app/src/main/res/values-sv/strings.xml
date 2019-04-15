@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Låter dig enkelt spara texter och kopiera den snabbt</string>
+    <string name="enter_or_paste_text_here">Skriv eller klistra in text här</string>
+    <string name="please_enter_text">Ingen text inmatad</string>
+    <string name="clear_text">Klar text</string>
+    <string name="copied_to_clipboard">Kopieras till Urklipp</string>
+    <string name="share_text">Dela text</string>
+    <string name="add_text">Lägg till text</string>
+    <string name="ok">Ok</string>
+    <string name="edit_text">Redigera text</string>
+    <string name="refresh">Uppdatera</string>
+    <string name="sample_text">Exempeltext</string>
+    <string name="check_my_other_apps">Visa handledning</string>
+    <string name="settings">inställningar</string>
+    <string name="share_app">dela</string>
+    <string name="rate_app">Recension</string>
+
+</resources>

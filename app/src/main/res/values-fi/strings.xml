@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="about_app">Voit tallentaa tekstin helposti ja kopioida sen nopeasti</string>
+    <string name="enter_or_paste_text_here">Kirjoita tai liitä teksti tähän</string>
+    <string name="please_enter_text">Ei tekstiä syötetty</string>
+    <string name="clear_text">Selkeä teksti</string>
+    <string name="copied_to_clipboard">Kopioidaan leikepöydälle</string>
+    <string name="share_text">Jaa tekstiä</string>
+    <string name="add_text">Lisää teksti</string>
+    <string name="ok">Ok</string>
+    <string name="edit_text">Muokkaa tekstiä</string>
+    <string name="refresh">virkistää</string>
+    <string name="sample_text">Näyteteksti</string>
+    <string name="check_my_other_apps">Katso opetusohjelma</string>
+    <string name="settings">asetukset</string>
+    <string name="share_app">osuus</string>
+    <string name="rate_app">Arvostelu</string>
+
+</resources>

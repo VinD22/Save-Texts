@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name" translatable="false">Save Texts</string>
+
+    <string name="about_app">This app lets you copy and paste text instantly so you dont have to keep typing the same text over and over again.</string>
+    <string name="check_my_other_apps">Check other apps by me</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="settings">Settings</string>
+    <string name="add_text">Add Text</string>
+    <string name="enter_or_paste_text_here">Enter or Paste Text here</string>
+    <string name="please_enter_text">No Text Entered</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="copied_to_clipboard">Copied to Clipboard</string>
+    <string name="share_text">Share Text</string>
+    <string name="ok">Ok</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="refresh">Refresh</string>
+    <string name="sample_text">This is a Sample Text</string>
+
+</resources>
